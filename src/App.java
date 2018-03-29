@@ -1,5 +1,5 @@
 
-public class RandomNumber {
+public class App {
     //Thuật toán sắp xếp tăng dần
     public static void sortASC(int[] listNumber) {
         int temp = listNumber[0];
